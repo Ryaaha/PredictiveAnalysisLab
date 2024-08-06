@@ -9,7 +9,7 @@ Comparative Analysis on Stock Price prediction of Retail Store Companies using t
 Accurately predicting solar flares using LSTM and Prophet. While Prophet is mainly a business oriented model, using its strong seasonal trend analysis capabilities can help find patterns in solar flares.
 
 ## 3. Traffic Congestion Prediction
-Predicting when and where increased chances of traffic congestion might be seen in city. 
+Predicting when and where increased chances of traffic congestion might be seen in cities. 
 
 ## 4. Prediction of Rocket Launch Delays
 Predicting if weather conditions will be safe for a rocket launch. NASA's annotated safest atmospheric conditions will be used as a guideline. 
